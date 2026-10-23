@@ -1,2 +1,2 @@
 # lab
-first lab devops
+first lab of all time
